@@ -2,7 +2,7 @@ if __name__ == "__main__":
     my_string = 'hjvuucucucucuculcc'
     lookup_string = 'abcde'
     for char in lookup_string:
-        print (char)
+        print (char)  
         print (my_string.count(char))
 
         
