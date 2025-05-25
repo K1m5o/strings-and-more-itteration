@@ -5,9 +5,6 @@ if __name__ == "__main__":
         print (char)  
         print (my_string.count(char))
 print ("hello niggers")
-
-
-        
     for char in lookup_string:
         result = char + ': ' +str(my_string.count (char))
         print(result)
