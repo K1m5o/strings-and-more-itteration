@@ -14,4 +14,3 @@ print ("hello niggers")
 
 
 
-
