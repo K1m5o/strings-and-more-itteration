@@ -10,7 +10,7 @@ print ("hello niggers")
         print(result)
     for char in lookup_string:
         result = 'character{}: count{}'.format(char,my_string.count(char))
-        print(result)# strings-and-more-itteration
+        print(result)# strings-and-more-itteratio
 
 
 
