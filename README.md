@@ -4,7 +4,7 @@ if __name__ == "__main__":
     for char in lookup_string:
         print (char)  
         print (my_string.count(char))
-print ("hello guys")
+print ("hello guys how are you?")
     for char in lookup_string:
         result = char + ': ' +str(my_string.count (char))
         print(result)
