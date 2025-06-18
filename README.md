@@ -12,3 +12,4 @@ print ("hello guys how are you?")
         result = 'character{}: count{}'.format(char,my_string.count(char))
         print(result)# strings-and-more-itteratio
 
+
