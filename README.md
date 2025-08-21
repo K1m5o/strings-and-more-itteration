@@ -5,6 +5,9 @@
 
 
 
+
+
+
 if __name__ == "__main__":
     my_string = 'hjvuucucucucuculcc'
     lookup_string = 'abcde'
